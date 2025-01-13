@@ -23,7 +23,7 @@ body{
     padding: 10px 18px;
     box-shadow: 0px 17px 118px -37px rgb(239, 250, 253, 0.75);
     display: flex;
-    align-items: center;
+    align-items: top;
 }
 
 #music-icon{
