@@ -29,7 +29,7 @@ body {
 #music-icon {
     height: 175px;
     width: 175px;
-    border-radius: 0px;
+    border-radius: 10px;
     object-fit: cover;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
 }
@@ -40,7 +40,8 @@ body {
     flex-direction: column;
     gap: 4px;
     margin: 0px;
-    padding: 0px:
+    padding: 0px;
+    max-width: 1500px
 }
 .info h1 {
     margin: 0;
