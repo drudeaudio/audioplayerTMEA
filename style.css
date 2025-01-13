@@ -8,6 +8,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    position:fixed:
 }
 
 .container {
@@ -16,7 +17,7 @@ body {
 
 .music-player {
     background: #9e9e9e;
-    width: 120%;
+    width: 200%;
     max-width: 600px;
     padding: 0px;
     border-radius: 0px;
