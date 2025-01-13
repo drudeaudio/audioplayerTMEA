@@ -74,4 +74,5 @@ body {
 }
 #waveform {
     height: 150px; /* Adjust height of waveform */
+    length: 150px
 }
