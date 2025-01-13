@@ -3,6 +3,9 @@
 body{
     background: #FFFFFF;
 }
+    {margin: 0; 
+     height: 100%; 
+     overflow: hidden}
 
 .container{
     font-family: 'Quicksand', sans-serif;
