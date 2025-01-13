@@ -72,3 +72,8 @@ body {
 .control-bar img:hover {
     transform: scale(1.1);
 }
+#waveform {
+    width: 100%; /* Set width to 100% of its container */
+    height: 50px; /* Adjust height of waveform */
+    background-color: #fff; /* Or set a background color */
+}
