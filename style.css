@@ -6,7 +6,7 @@ body {
     height: 100%;
     overflow: hidden;
     display: flex;
-    justify-content: center;
+    justify-content: left;
     align-items: left;
 }
 
