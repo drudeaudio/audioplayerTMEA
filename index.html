@@ -11,9 +11,9 @@
 <body>
     <div class="container">
         <div class="music-player">
-            <img src="./assests/music-icon.jpg" alt="music-icon" id="music-icon">
+            <img src="./assests/Arirang.jpg" alt="music-icon" id="music-icon">
             <div class="info">
-                <h1>Fairy tale</h1>
+                <h1>Arirang - Korean Trad. Medley</h1>
                 <h3>- A fairy music</h3>
                 <div id="waveform"></div>
                 <div class="control-bar">
@@ -31,14 +31,14 @@
 
         var wavesurfer = WaveSurfer.create({
             container: '#waveform',
-            waveColor: '#e3bbee',
-            progressColor: '#fe38ab',
+            waveColor: '#f0f0f2',
+            progressColor: '#282829',
             barWidth: 3,
             responsive: true,
             hideScrollbar: true,
             barRadius: 3
         });
-        wavesurfer.load('assests/fairy-tale-music.mp3');
+        wavesurfer.load('assests/Arirang.mp3');
 
         playBtn.onclick = function(){
             wavesurfer.playPause();
