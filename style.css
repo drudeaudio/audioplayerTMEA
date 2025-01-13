@@ -48,13 +48,13 @@ body {
 .info h1 {
     margin: 0;
     font-size: 1.2rem;
-    color: #1c1c1c;
+    color: #dbdbdb;
     max-width: 1500px;
 }
 .info h3 {
     margin: 0;
     font-size: 0.8rem;
-    color: #f5f5f5;
+    color: #7a7979;
     max-width: 1500px;
 }
 
