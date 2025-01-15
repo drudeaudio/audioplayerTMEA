@@ -63,7 +63,7 @@ body {
     font-size: 0.4rem;
     color: #d6d2d2;
     max-width: 1500px;
-    margin-top: 3px
+    margin-top: 6px
 }
 
 .control-bar {
@@ -71,7 +71,7 @@ body {
     gap: 20px;
     justify-content: flex-end;
     align-items: right;
-    margin-top: 2px
+    margin-top: 4px
 }
 
 .control-bar img {
